@@ -1,0 +1,7 @@
+path: '/Users/tayabsoomro/Documents/Projects/Fabric-Defect-Detection'
+train: './data/train/images'
+val: './data/valid/images'
+test: './data/test/images'
+
+nc: 2
+names: ['cut', 'hole']
